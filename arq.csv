@@ -1,0 +1,4 @@
+Modo,Tempo_ms,Soma,Total Threads
+static,201.79,1.35731,8
+dynamic,182.39,1.35731,8
+guided,182.21,1.35731,8
